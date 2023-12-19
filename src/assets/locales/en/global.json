@@ -1,0 +1,21 @@
+{
+  "lang": {
+    "en": "ENG",
+    "vi": "VI"
+  },
+  "save": "en",
+  "cancel_btn": "en",
+  "here": "Tại đây",
+  "login": "Đăng nhập",
+  "logout": "Đăng xuất",
+  "send": "Gửi đi",
+  "home": "Home",
+  "product": "Sản phẩm",
+  "solution": "Giải pháp",
+  "resource": "Tài nguyên",
+  "partner": "Đối tác",
+  "company": "Công ty",
+  "contact": "Liên hệ",
+  "news": "Tin tức",
+  "download": "Tải xuống"
+}
